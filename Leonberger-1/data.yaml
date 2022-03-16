@@ -1,0 +1,5 @@
+names:
+- Leonberger
+nc: 1
+train: Leonberger-1/train/images
+val: Leonberger-1/valid/images
