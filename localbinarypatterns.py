@@ -1,4 +1,3 @@
-# import the necessary packages
 from skimage import feature
 import numpy as np
 
